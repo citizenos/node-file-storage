@@ -1,6 +1,6 @@
 # file-storage
 
-[![Build Status](https://travis-ci.org/jakubknejzlik/node-file-storage.svg?branch=master)](https://travis-ci.org/jakubknejzlik/node-file-storage)
+[![Build Status](https://travis-ci.org/citizenos/node-file-storage.svg?branch=master)](https://travis-ci.org/citizenos/node-file-storage)
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
 
@@ -12,10 +12,10 @@
 [downloads-image]: https://img.shields.io/npm/dm/file-storage.svg
 [downloads-url]: https://npmjs.org/package/file-storage
 
-[dependencies-image]:https://david-dm.org/jakubknejzlik/node-file-storage.png
-[dependencies-url]:https://david-dm.org/jakubknejzlik/node-file-storage
-[devdependencies-image]:https://david-dm.org/jakubknejzlik/node-file-storage/dev-status.png
-[devdependencies-url]:https://david-dm.org/jakubknejzlik/node-file-storage#info=devDependencies
+[dependencies-image]:https://david-dm.org/citizenos/node-file-storage.png
+[dependencies-url]:https://david-dm.org/citizenos/node-file-storage
+[devdependencies-image]:https://david-dm.org/citizenos/node-file-storage/dev-status.png
+[devdependencies-url]:https://david-dm.org/citizenos/node-file-storage#info=devDependencies
 
 
 File storage for storing/retrieving files from various sources.
